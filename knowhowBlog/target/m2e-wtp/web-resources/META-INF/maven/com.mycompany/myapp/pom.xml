@@ -131,7 +131,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>5.1.31</version>
+		    <version>8.0.28</version>
 		</dependency>
 		<!-- 파일 업로드 처리 라이브러리 -->
 		<dependency>
